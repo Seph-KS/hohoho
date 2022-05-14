@@ -4,5 +4,5 @@
 '''
 
 
-def solution():
-    pass
+def solution(n):
+    return "Ho " * (n - 1) + "Ho!"
